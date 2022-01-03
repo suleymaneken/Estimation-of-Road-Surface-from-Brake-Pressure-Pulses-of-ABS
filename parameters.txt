@@ -1,0 +1,13 @@
+parameters:
+
+slippery road:
+k_aa_l_60   -> Sol tekerlek ivmesi
+p_l_60    -> sol tekerlerk basıç
+k_tV_l_60   -> sol tekerlek hızı
+
+wet road:
+w_aa_l_60   -> Sol tekerlek ivmesi
+w_p_l_60    -> sol tekerlerk basıç
+w_tV_l_60   -> sol tekerlek hızı
+
+Aracın frene bastıktan sonraki durma süreleri her iki yol türü için farklı.
